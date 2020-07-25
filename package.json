@@ -1,5 +1,5 @@
 {
-  "name": "ac_demo",
+  "name": "SiNpilotTest",
   "version": "1.0.0",
   "main": "app.js",
   "scripts": {
@@ -20,11 +20,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/THouwe/AC_experiment_DEMO.git"
+    "url": "git+https://github.com/THouwe/SiNpilotTest.git"
   },
   "bugs": {
-    "url": "https://github.com/THouwe/AC_experiment_DEMO/issues"
+    "url": "https://github.com/THouwe/SiNpilotTest/issues"
   },
-  "homepage": "https://github.com/THouwe/AC_experiment_DEMO#readme",
+  "homepage": "https://github.com/THouwe/SiNpilotTest#readme",
   "description": ""
 }

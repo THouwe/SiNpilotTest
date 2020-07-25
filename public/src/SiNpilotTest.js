@@ -287,11 +287,6 @@ var procedure_practiceSiN = {
  timeline: [fixation_cross, practice_trial_SiN, start_SiNRT]
 };
 
-// var WRAPPER = {
-//    timeline_variables: STIMULI,
-//    timeline: TRIALS
-// };
-
 var PROCEDURE = {
  timeline: [fixation_cross, TRIALS],
  // timeline: [fixation_cross, WRAPPER],
