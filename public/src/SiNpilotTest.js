@@ -36,7 +36,7 @@ var DATE = YYYY + MM + DD;
       },
       type: "survey-html-form",
       preamble: "<p>Welcome to the experiment!</p>" +
-        "Please enter your ID (numbers and/or text; e.g., <YourInitials_testN>)",
+        "Please enter your ID (numbers and/or text; e.g., YourInitials_testNr)",
       html: "<p>Participant ID: <input name='Part_ID' type='text' /></p>",
       on_finish: function(data){
         data.responses = JSON.parse(data.responses);
